@@ -1,0 +1,182 @@
+[
+  {
+    "key": "wolong",
+    "name": "卧龙资源",
+    "api": "https://collect.wolongzyw.net/api.php/provide/vod/",
+    "searchable": 1,
+    "filterable": 1,
+    "playerType": 1,
+    "status": 1
+  },
+  {
+    "key": "tianya",
+    "name": "天涯资源",
+    "api": "https://tianyaapi.com/api.php/provide/vod/",
+    "searchable": 1,
+    "filterable": 1,
+    "playerType": 1,
+    "status": 1
+  },
+  {
+    "key": "leduo",
+    "name": "乐多资源",
+    "api": "https://api.leduotv.com/api.php/provide/vod/",
+    "searchable": 1,
+    "filterable": 1,
+    "playerType": 1,
+    "status": 1
+  },
+  {
+    "key": "jszy",
+    "name": "极速资源",
+    "api": "https://jszyapi.com/api.php/provide/vod/",
+    "searchable": 1,
+    "filterable": 1,
+    "playerType": 1,
+    "status": 1
+  },
+  {
+    "key": "bdzy",
+    "name": "百度资源",
+    "api": "https://api.apibdzy.com/api.php/provide/vod/",
+    "searchable": 1,
+    "filterable": 1,
+    "playerType": 1,
+    "status": 1
+  },
+  {
+    "key": "feisu",
+    "name": "飞速资源",
+    "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
+    "searchable": 1,
+    "filterable": 1,
+    "playerType": 1,
+    "status": 1
+  },
+  {
+    "key": "liangzi",
+    "name": "量子资源",
+    "api": "https://cj.lziapi.com/api.php/provide/vod/",
+    "searchable": 1,
+    "filterable": 1,
+    "playerType": 1,
+    "status": 1
+  },
+  {
+    "key": "guangsu",
+    "name": "光速资源",
+    "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+    "searchable": 1,
+    "filterable": 1,
+    "playerType": 1,
+    "status": 1
+  },
+  {
+    "key": "shandian",
+    "name": "闪电资源",
+    "api": "https://sdzyapi.com/api.php/provide/vod/",
+    "searchable": 1,
+    "filterable": 1,
+    "playerType": 1,
+    "status": 1
+  },
+  {
+    "key": "kuaikan",
+    "name": "快看资源",
+    "api": "https://kuaikan-api.com/api.php/provide/vod/",
+    "searchable": 1,
+    "filterable": 1,
+    "playerType": 1,
+    "status": 1
+  },
+  {
+    "key": "kubo",
+    "name": "酷播资源",
+    "api": "https://api.kbzyapi.com/api.php/provide/vod/",
+    "searchable": 1,
+    "filterable": 1,
+    "playerType": 1,
+    "status": 1
+  },
+  {
+    "key": "maoyan",
+    "name": "猫眼资源",
+    "api": "https://www.maoyanapi.com/api.php/provide/vod/",
+    "searchable": 1,
+    "filterable": 1,
+    "playerType": 1,
+    "status": 1
+  },
+  {
+    "key": "bdyun",
+    "name": "北斗云",
+    "api": "https://api.bdzybf.com/api.php/provide/vod/",
+    "searchable": 1,
+    "filterable": 1,
+    "playerType": 1,
+    "status": 1
+  },
+  {
+    "key": "okzy",
+    "name": "OK资源",
+    "api": "https://okzyapi.com/api.php/provide/vod/",
+    "searchable": 1,
+    "filterable": 1,
+    "playerType": 1,
+    "status": 1
+  },
+  {
+    "key": "yinghuazy",
+    "name": "樱花资源",
+    "api": "https://www.yinghuazyapi.com/api.php/provide/vod/",
+    "searchable": 1,
+    "filterable": 1,
+    "playerType": 1,
+    "status": 1
+  },
+  {
+    "key": "biying",
+    "name": "碧影资源",
+    "api": "https://api.biyingapi.com/api.php/provide/vod/",
+    "searchable": 1,
+    "filterable": 1,
+    "playerType": 1,
+    "status": 1
+  },
+  {
+    "key": "niubi",
+    "name": "牛逼资源",
+    "api": "https://niubizyapi.com/api.php/provide/vod/",
+    "searchable": 1,
+    "filterable": 1,
+    "playerType": 1,
+    "status": 1
+  },
+  {
+    "key": "timizy",
+    "name": "提米资源",
+    "api": "https://timizyapi.com/api.php/provide/vod/",
+    "searchable": 1,
+    "filterable": 1,
+    "playerType": 1,
+    "status": 1
+  },
+  {
+    "key": "1080zy",
+    "name": "1080资源",
+    "api": "https://api.1080zyku.com/inc/api.php",
+    "searchable": 1,
+    "filterable": 1,
+    "playerType": 1,
+    "status": 1
+  },
+  {
+    "key": "yulezy",
+    "name": "娱乐资源",
+    "api": "https://api.ylzy1.com/api.php/provide/vod/",
+    "searchable": 1,
+    "filterable": 1,
+    "playerType": 1,
+    "status": 1
+  }
+]
